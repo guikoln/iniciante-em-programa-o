@@ -1,6 +1,6 @@
 # Inciante em prgramação - Alura
 
-Porjetos realizados no curos da Alura de *Iniciante em Programação*.
+Projetos realizados no curso da Alura de *Iniciante em Programação*.
 
 ## Projetos realiazado
 * Site Barbearia Alura
